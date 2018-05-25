@@ -1,0 +1,20 @@
+.titlebox {
+  background-image: url('https://thumbs.dreamstime.com/z/creative-illustration-innovative-art-cute-cartoon-forest-land-realistic-fantastic-style-artwork-scene-wallpaper-story-72821544.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 250px;
+  text-align: center;
+  vertical-align: center;
+  /* opacity: 0.3; */
+  /* filter: alpha(opacity=30); */
+  font-family: 'Times New Roman', Times, serif;
+  color: #fff;
+  text-shadow: 0 0 5px #000;
+  margin-bottom: 20px;
+}
+
+h1{
+  text-align: center;
+  margin-top: 100px;
+}
